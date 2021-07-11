@@ -1,3 +1,3 @@
-FROM jacobalberty/unifi:stable-6
+FROM jacobalberty/unifi:v6
 
 HEALTHCHECK NONE
